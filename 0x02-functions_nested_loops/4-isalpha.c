@@ -2,7 +2,7 @@
 /**
  * _isalpha - Checks for alphabetic order
  *
- * @c: alpabet to check for
+ * @c: alphabet to check for
  *
  * Return: 1 if c is a letter, 0 otherwise
  */
