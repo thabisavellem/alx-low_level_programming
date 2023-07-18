@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _isalpha - Checks for alphabetic order
+ * test_isalpha - Checks for alphabetic order
  *
  * @c: alphabet to check for
  *
