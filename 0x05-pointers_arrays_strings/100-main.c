@@ -6,9 +6,9 @@
  *
  * Return: Always 0.
  */
-int main(void)
+int _atoi(const char *str)
 {
-	int nb;
+	int result = 0;
 
 	nb = _atoi("98");
 	printf("%d\n", nb);
@@ -26,5 +26,5 @@ int main(void)
 	printf("%d\n", nb);
 	nb = _atoi("---++++ -++ Sui - te -   402 #cisfun :)");
 	printf("%d\n", nb);
-	return (0);
+	return result;
 }
